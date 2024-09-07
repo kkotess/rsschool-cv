@@ -1,4 +1,5 @@
 # Ekaterina Siomina
+![My photo](2964943558428174258.jpg)
 ## Student of RS School
 ****
 ## Contact information 
