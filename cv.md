@@ -29,8 +29,19 @@ else:
     print('NO')
 ```
 ****
-## Courses
-![HTML](https://blob.sololearn.com/certificates/e17822dc-7f3d-44d2-befa-07d71fa7ae4b.pdf)
-![Python for Beginners](https://blob.sololearn.com/certificates/23952529-ad5b-4f6e-9b31-2538c4961a87.pdf)
-![Python Data Structyres](https://blob.sololearn.com/certificates/ab1c802e-4566-4e07-a142-c390a1746b80.pdf)
+## Work experience
+[CV on sololearn](https://sololearn.com/compiler-playground/WYCFGjXk6T35/?ref=app)
 ****
+## Courses
+* Sololearn:
+    1. HTML 
+    2. Python for Beginners 
+    3. Python Data Structyres
+* Stepik:
+    1. Python (in progress)
+****
+## Languages
+1. English - basic (A2)
+2. French - elementary (A1)
+3. Japanese - elementary (N4)
+4. Russian - native
