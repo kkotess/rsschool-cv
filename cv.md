@@ -28,3 +28,9 @@ elif ((x1-x2==2) or (x1-x2==-2)) and ((y1-y2==1) or (y1-y2==-1)):
 else:
     print('NO')
 ```
+****
+## Courses
+![HTML](https://blob.sololearn.com/certificates/e17822dc-7f3d-44d2-befa-07d71fa7ae4b.pdf)
+![Python for Beginners](https://blob.sololearn.com/certificates/23952529-ad5b-4f6e-9b31-2538c4961a87.pdf)
+![Python Data Structyres](https://blob.sololearn.com/certificates/ab1c802e-4566-4e07-a142-c390a1746b80.pdf)
+****
