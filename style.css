@@ -5,39 +5,42 @@
   scroll-behavior: smooth;
 }
 
-header, main, footer {
-    font-family: Felidae, Rockwell, Didot;
-    color: black;
+header,
+main,
+footer {
+  font-family: Felidae, Rockwell, Didot;
+  color: black;
 }
-header, main {
-    padding: 0 20px;
+header,
+main {
+  padding: 0 20px;
 }
 
 footer {
-    background-color: #ddd;
+  background-color: #ddd;
 }
 
 code {
-    display: block;
+  display: block;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 
 pre {
-    background-color: #f4f4f4;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    width: 750px;
-  }
-  
-  code {
-    background-color: #eaeaea;
-    padding: 20px;
-    border-radius: 4px;
-  }
+  background-color: #f4f4f4;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 750px;
+}
+
+code {
+  background-color: #eaeaea;
+  padding: 20px;
+  border-radius: 4px;
+}
 
 h1 {
   font-size: 72px;
@@ -75,7 +78,8 @@ a:hover {
   color: burlywood; /* Цвет ссылки при наведении */
 }
 
-h2, h3 {
+h2,
+h3 {
   text-transform: uppercase;
   margin-bottom: 20px;
 }
@@ -91,6 +95,7 @@ h3 {
   padding-bottom: 10px; /* Отступ снизу */
   margin-left: 20px;
 }
+
 /* Стили для списка ul */
 ol {
   list-style-type: disc; /* Классические диски для списка */
@@ -112,35 +117,35 @@ ol li:hover {
 }
 
 #navigation_list {
-    font-size: 24px;
-    li {
-      display: inline-block;
-      margin-right: 20px;
-      vertical-align: top;
-    }
+  font-size: 24px;
+  li {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+  }
 }
 
 .list {
-    font-family: Felidae, Rockwell, Didot;
-    text-transform: none;
-    font-size: 20px;
-    color: black; /* Темный цвет для элементов списка */
-    margin-bottom: 5px;
-    line-height: 1.5; /* Увеличение межстрочного интервала */
-    margin-left: 50px;
+  font-family: Felidae, Rockwell, Didot;
+  text-transform: none;
+  font-size: 20px;
+  color: black; /* Темный цвет для элементов списка */
+  margin-bottom: 5px;
+  line-height: 1.5; /* Увеличение межстрочного интервала */
+  margin-left: 50px;
 }
 
 .svg {
-    height: 100px;
-    width: 200px;
+  height: 100px;
+  width: 200px;
 }
 
 .footer_list {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .footer_list:first-child li a {
-    font-size: 36px;
+  font-size: 36px;
 }
